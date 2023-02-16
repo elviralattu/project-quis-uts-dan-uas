@@ -53,7 +53,7 @@
     <div class="row">
       <div class="col-md-4">
       <div class="foto">
-        <img src="foto/10.jpg" class="img-thumbnail" alt="" width="150" height="auto">
+        <img src="foto/data.jpeg" class="img-thumbnail" alt="" width="150" height="auto">
       </div>
       </div>
       <div class="col-md-8 kertas-biodata">
@@ -66,7 +66,7 @@
             <tr>
               <td width="25%" valign="top" class="textt">Nama</td>
                 <td width="2%">:</td>
-                <td style="color: #e9a7f9; font-weight:bold">Mudrikatul Qamariah</td>
+                <td style="color: #e9a7f9; font-weight:bold">elvira santy lattu</td>
             </tr>
           <tr>
               <td class="textt">Jenis Kelamin</td>
@@ -76,21 +76,21 @@
           <tr>
               <td class="textt">TTL</td>
                 <td>:</td>
-                <td>Halong,31 mei 2002</td>
+                <td>Jerili 19 mei 2004</td>
             </tr>
             </tr>
             <td class="textt">TB/BB</td>
                 <td>:</td>
-                <td>158 cm/52 kg</td>
+                <td>158 cm/50 kg</td>
             </tr>
           <tr>
             <td class="textt">Agama</td>
                 <td>:</td>
-                <td>Islam</td>
+                <td>Kristen Protestan</td>
             </tr>
             <td class="textt">Alamat</td>
                 <td>:</td>
-                <td>Waiheru</td>
+                <td>kopertis</td>
             </tr>
           <tr>
               <td class="textt">kampus</td>
@@ -105,7 +105,7 @@
             <tr>
               <td valign="top" class="textt">SOSMED</td>
                 <td valign="top">:</td>
-                <td>Instagram @maudyqmryh_</td>
+                <td>Instagram @elvralttu</td>
             </tr>
             <tr>
               

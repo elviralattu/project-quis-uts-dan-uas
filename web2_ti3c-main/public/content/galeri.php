@@ -16,28 +16,25 @@
     <div class="container">
         <div class="row g-0">
             <div class="col-md-3">
-                <img class="w-100" src="foto/2.jpeg" alt="gambar alam">
+                <img class="w-100" src="foto/1.jpg" alt="foto">
             </div>
             <div class="col-md-3">
-                <img class="w-100" src="foto/3.jpg" alt="gambar alam">
+                <img class="w-100" src="foto/2.jpg" alt="foto">
             </div>
             <div class="col-md-3">
-                <img class="w-100" src="foto/4.jpeg" alt="gambar alam">
+                <img class="w-100" src="foto/aidil.png" alt="foto">
             </div>
             <div class="col-md-3">
-                <img class="w-100" src="foto/5.jpeg" alt="gambar alam">
+                <img class="w-100" src="foto/Air Bersih 2.jpg" alt="foto">
             </div>
             <div class="col-md-3">
-                <img class="w-100" src="foto/6.jpeg" alt="gambar alam">
+                <img class="w-100" src="foto/back2.jpg" alt="foto">
             </div>
             <div class="col-md-3">
-                <img class="w-100" src="foto/7.jpeg" alt="gambar alam">
+                <img class="w-100" src="foto/gardami.png" alt="foto">
             </div>
             <div class="col-md-3">
-                <img class="w-100" src="foto/8.jpg" alt="gambar alam">
-            </div>
-            <div class="col-md-3">
-                <img class="w-100" src="foto/9.jpeg" alt="gambar alam">
+                <img class="w-100" src="foto/island.png" alt="foto">
             </div>
         </div>
     </div>
